@@ -1,2 +1,1 @@
-# test1
-just a demo test
+notebook for technique
